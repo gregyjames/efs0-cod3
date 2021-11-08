@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efs0-cod3
 - 👀 I’m interested in the big 3 for now..
-- 🌱 I’m currently learning html, and css
+- 🌱 I’m currently learning Js
 - 📫 How to reach me eflearnng@gmail.com
 <!---
 efs0-cod3/efs0-cod3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
