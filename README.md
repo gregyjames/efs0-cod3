@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erick but everyone calls me 'ef' @efs0-cod3
+- 👋 Hi, I’m Erick but everyone calls me 'ef' and on the web I go by `efs0-cod3`
 - 👀 FullStack web developer
 
 - I'm a passionate Software developer who happens to be from Dominican Republic, I like building things that are useful for day to day basis. You can found more about me [here](https://erickfelix.netlify.app/) 
