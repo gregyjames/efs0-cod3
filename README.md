@@ -12,7 +12,8 @@
 <code><img height="30" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/html.png"></code>
 <code><img height="30" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/css3.png"></code>
 <code><img height="20" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/js.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 <!---
