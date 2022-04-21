@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Erick but everyone calls me 'ef' and on the web I go by `efs0-cod3`
-### FullStack web developer
+# 👋 Hi, I’m Erick.
+## My Friends call me 'ef' and on the web I go by `efs0-cod3`
 
-### I'm a passionate Software developer who happens to be from Dominican Republic, I like building things that are useful for day to day basis. You can found more about me [here](https://erickfelix.netlify.app/) 
+## I'm a passionate Software developer who happens to be from Dominican Republic. I like building things that are useful for day to day basis. You can found more about me [here](https://erickfelix.netlify.app/) 
 
 - 💼 Im also available for freelance!
 - 📫 How to reach me effsdr@protonmail.com or erickfelixs@icloud.com
