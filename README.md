@@ -26,4 +26,4 @@
   <img align="left" alt="Erick Felix's LinkedIN" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/in.png" />
 </a>
 <br>
-<a><img src="https://www.codewars.com/users/efs0-cod3/badges/large"></a>
+<a><img src="https://www.codewars.com/users/efs0-cod3/badges/small"></a>
