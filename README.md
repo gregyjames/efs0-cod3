@@ -15,23 +15,21 @@
   </div>
   
 ## 🛠 Tools 
-<a><img height="30" src="https://github.com/efs0-cod3/efs0-cod3/raw/main/images/html.png"></a>
-<a><img height="30" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/css3.png"></a>
-<a><img height="20" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/js.png"></a>
-<a><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
+<img align="center" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/github-banner-tech.png"/>
+
 
 
 
 ## Socials
 <div align="center">
   <a href="https://www.instagram.com/efs0cod3/">
-  <img alt="Erick's Instagram" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/ig.png"/>
+  <img width="50" alt="Erick's Instagram" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/ig.png"/>
 </a>
 
 <a href="https://twitter.com/efs0_code">
-  <img alt="Erick 'efs0_cod3' Felix | Twitter" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/Tw.png"/>
+  <img width="50" alt="Erick 'efs0_cod3' Felix | Twitter" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/Tw.png"/>
 </a>
 <a href="https://www.linkedin.com/in/erick-felix-68365a231/">
-  <img alt="Erick Felix's LinkedIN" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/in.png" />
+  <img width="50" alt="Erick Felix's LinkedIN" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/in.png" />
 </a>
   </div>
