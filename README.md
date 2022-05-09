@@ -11,7 +11,7 @@
 - 💬 Im open to connect DM's are open [Twitter](https://twitter.com/efs0_code)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=efs0-cod3&theme=bear"/>
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com?user=efs0-cod3&theme=bear"/>
   </div>
   
 ## 🛠 Tools 
