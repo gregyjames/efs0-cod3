@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Erick.
+<img align="center" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/github-banner.png"/>
 * My Friends call me 'ef' and on the web I go by `efs0-cod3`
 
 * I'm a passionate Software developer who happens to be from Dominican Republic. I like building things that are useful for day to day basis. You can found more about me [here](https://erickfelix.netlify.app/) 
