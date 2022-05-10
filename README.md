@@ -18,7 +18,21 @@
 <img align="center" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/github-banner-tech.png"/>
 
 
+## Projects
 
+<table>
+ <tbody>
+   <tr>
+   <td><a href="https://efs0-cod3.github.io/tip-calc/"><img src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/splitter.gif"/></td>
+    <td><a href="https://countdowntimr.netlify.app/"><img src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/countDown.gif"/></td>
+  
+   </tr>
+     <tr>
+   <td><a href="https://efs0-cod3.github.io/Tra-Boo/"><img src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/crop.gif"/></td>
+     <td><a href="https://efs0-cod3.github.io/Airport_info/"><img heigth="100" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/%20aviation.gif"/></td>
+   </tr>
+   </tbody>
+</table>
 
 ## Socials
 <div align="center">
